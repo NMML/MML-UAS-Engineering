@@ -21,14 +21,11 @@ We utilized the following materials. Your mileage may vary based on your 3D prin
 - 3D Printer
 
 ## General instructions
-1. Cut 6x6 CF Tube
-2.     2x 152mm
-3.     2x 112mm
-4. Cut 10mm OD CF Tube. Cut to desired length, but no less than
-5.     4x 155mm
-6. Cut 18mm OD CF Tube
-7.     2x 212mm
-8. Slide strap onto 152mm CF square tube
-9. Insert square tubes into M30T adapter pieces
-10. Use epoxy to bind
+1. Cut 6x6 CF Tube (2x 152mm, 2x 112mm)
+2. Cut 10mm OD CF Tube. Cut to desired length, no less than 155mm (4x 155mm)
+3. Cut 18mm OD CF Tube (2x 212mm)
+8. Slide strap stopper onto 152mm CF square tube. You can't do this later, so do it now! This pieces should be 41mm from the aft "corner piece"
+9. Slide aft shelf onto aft 112mm CF square tube. Same as above, do it now, but note the orientation! This piece should be centered on the aft 112mm tube.
+10. Assemble the upper portion by inserting the square tubes into the "corner pieces." Use expoxy to secure these (suggest putting expoxy/glue in the square hole before inserting square tube)
+11. Use epoxy to affix shelf/stopper to CF tube. 
 
