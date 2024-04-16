@@ -1,6 +1,6 @@
 # DJI M30T Hand Launch and Recovery Apparatus
 ### Design: Gavin Brady (gavin.brady@noaa.gov), Ben Hou (ben.hou@noaa.gov)
-![image](https://github.com/NMML/MML-UAS-Engineering/assets/121899745/4a0c3579-304f-4194-9cb8-e643729948c1)
+![image](https://github.com/NMML/MML-UAS-Engineering/assets/121899745/13031261-2cdb-4ec1-b81a-dd8a2328c3b4)
 
 The rear rotors on the DJI M30T are downward facing (i.e. in a pushing configuration) and in close proximity to the belly of the drone. This configuration makes hand launch and recovery (HLR) dangerous as there is little to no separation between the rotor and the catcher’s hands. To address this, we developed an assembly that provides a handhold that provides sufficient separation from the rotor to enable HLR.
 Our design employs 3D printed parts to interface with the drone and makes liberal use of carbon fiber tube to reduce weight and 3D printing complexity.  The assembly is secured to the M30T with an elastic strap (see below). 
@@ -28,4 +28,7 @@ We utilized the following materials. Your mileage may vary based on your 3D prin
 5.     4x 155mm
 6. Cut 18mm OD CF Tube
 7.     2x 212mm
+8. Slide strap onto 152mm CF square tube
+9. Insert square tubes into M30T adapter pieces
+10. Use epoxy to bind
 
